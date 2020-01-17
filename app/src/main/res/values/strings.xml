@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">mt-android-sdk</string>
+    <string name="language_code_region">语种选择区域：</string>
+    <string name="input_content_region">文本输入区域：</string>
+    <string name="load_content_region">SD卡导入文本：</string>
+    <string name="result_region">翻译结果展示：</string>
+    <string name="hint_input_content">请输入文本</string>
+    <string name="text_input_content">录音笔的定位一直是便携的专业产品，用户群体单一，但随着AI、物联网的快速演进，录音笔从过去的存量市场逐渐演变成面向蓝海的增量市场，产品的应用场景、服务带来新的想象力。</string>
+    <string name="hint_load_content_btn">导入文本并翻译</string>
+    <string name="hint_load_content_text">将命名为translate.txt的文本导入sogou/translate/目录下，然后点击翻译按钮</string>
+    <string name="hint_translate_btn">翻译</string>
+    <string name="hint_translate_result">翻译结果</string>
+    <string name="save_result">保存到SD卡中</string>
+</resources>
