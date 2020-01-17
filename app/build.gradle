@@ -53,7 +53,7 @@ dependencies {
     //加密库
     implementation 'org.conscrypt:conscrypt-android:1.4.2'
     //在线翻译库
-    implementation 'com.github.sogouspeech:mt-android-sdk:1.0.3'
+    implementation 'com.github.sogouspeech:mt-android-sdk:1.0.4'
     //网络库+工具类
     implementation 'com.github.sogouspeech:common-android-sdk:1.0.3'
 
